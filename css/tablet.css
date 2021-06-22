@@ -1,0 +1,15 @@
+.product-cards__container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container__slider {
+    overflow-x: hidden;
+}
+
+.plans-container__card {
+
+    margin: 50px 15px;
+}
